@@ -1,24 +1,24 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"name": "Meiji Shrine",
+		"replaces": "false",
+		"uniqueTo": "Emperial Japan",
 		"cost": 480,
 		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"culture": 50,
+		"science": 50,
+		"maintenance": 50,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "Shrine",
+		"requiredTech": "Bronze working"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"name": "Kyoto Imperial Palace",
+		"replaces": "false",
+		"uniqueTo": "Imperial Japan",
 		"cost": 80,
 		"hurryCostModifier": 160,
-		"happiness": 2,
+		"happiness": 45,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
