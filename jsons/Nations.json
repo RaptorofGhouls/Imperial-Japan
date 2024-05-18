@@ -5,6 +5,9 @@
 		"adjective": ["Imperial Japan"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
+		"nations properities": "100% weakness against nukes" 
+		"nations properities": "+2 culture,food,gold for every fishing boat amd Atoll"
+		"nations properities": "100% strenght against korea,china,vietnam,russia,philiphines"
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "We come as brave samurais dont worry about us yet.",
