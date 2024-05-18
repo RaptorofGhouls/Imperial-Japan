@@ -13,6 +13,6 @@
 		"requiredResource": "Oil",
 		"promotions": ["Range 1","Range 2","Range 3"],
 		"attackSound": "phasers"
-		"unique"
+		"uniques":"If Kamikaze plane attacks it deals 100% damage but afterwards dies"
 	}
 ]
