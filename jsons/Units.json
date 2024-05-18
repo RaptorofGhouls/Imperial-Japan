@@ -13,5 +13,6 @@
 		"requiredResource": "Oil",
 		"promotions": ["Range 1","Range 2","Range 3"],
 		"attackSound": "phasers"
+		"unique"
 	}
 ]
