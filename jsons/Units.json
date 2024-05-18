@@ -14,5 +14,35 @@
 		"promotions": ["Range 1","Range 2","Range 3"],
 		"attackSound": "phasers"
 		"uniques":"If Kamikaze plane attacks it deals 100% damage but afterwards dies"
-	}
+
+		"name": "Samurai"
+		"unitType": "melee unit"
+		"uniqueTo": "Imperial Japan"
+		"replaces": "longswordsman"
+		"movement": 3
+		"strength":50
+		"range": 2
+		"cost": 300
+		"requiredTech": "iron"
+		"requiredResource": "iron"
+		"promotions":["heal instantly","Drill 1","Drill 2","Drill 3","Shock 1","Shock 2","Shock 3","Cover 1", "Cover 2", "Ambush 1", "Ambush 2", "Medic 1", "Medic 2", "Formation 1", "Formation 2","Amphibious", "Besiege","Sentry", "March","Woodsman","Blitz"],
+		"uniques":"Earn 50% of killed military strenght as faith and culture"
+		"uniques": " can be purchased with faith in all cities"
+		"uniques":"increase spawn rate in tokyo 200%",
+		
+		"name": "02",
+		"unitType": "Plane",
+		"uniqueTo": "Imperial Japan",
+		"replaces": "Fighter",
+		"movement": 20,
+		"strength": 50,
+		"rangedStrength": 25,
+		"range": 2,
+		"cost": 500,
+		"requiredTech": "Flight",
+		"requiredResource": "Oil",
+		"promotions": ["Range 1","Range 2","Range 3"],
+		"attackSound": "phasers"
+		"uniques":"200% strenght against all units"
+ 	}
 ]
