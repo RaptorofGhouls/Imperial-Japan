@@ -2,7 +2,7 @@
 	{
 		"name": "Meiji Shrine",
 		"replaces": "false",
-		"uniqueTo": "Emperial Japan",
+		"uniqueTo": "Imperial Japan",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 50,
