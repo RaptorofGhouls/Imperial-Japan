@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Emperial Japan",
+		"name": "Imperial Japan",
 		"leaderName": "Emperor Showa (Hirohito)",
-		"adjective": ["Emperial Japan"],
+		"adjective": ["Imperial Japan"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
